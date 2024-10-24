@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,applog.snssdk.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
@@ -110,7 +109,6 @@ DOMAIN-SUFFIX,ut2.shuqistat.com
 DOMAIN-SUFFIX,v3-novelapp.fqnovelvod.com
 DOMAIN-SUFFIX,webcast5-open-lq.douyin.com
 DOMAIN-SUFFIX,xwuad.com
-DOMAIN-SUFFIX,zijieapi.com
 # IP-CIDR
 IP-CIDR,101.226.41.153/32,no-resolve
 IP-CIDR,114.80.236.167/32,no-resolve
